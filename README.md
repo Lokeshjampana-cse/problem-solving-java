@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/0724-find-pivot-index) |
+| [1470-shuffle-the-array](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
