@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/0049-group-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/1360-number-of-days-between-two-dates) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/Lokeshjampana-cse/problem-solving-java/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
